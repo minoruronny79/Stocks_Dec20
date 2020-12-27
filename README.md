@@ -1,2 +1,2 @@
 # Stocks_Dec20
-Stocks
+Checking different types of stocks
